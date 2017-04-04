@@ -24,6 +24,7 @@
     "url": "https://github.com/nopantsmonkey/webpack-manifest-pluginissues"
   },
   "homepage": "https://github.com/nopantsmonkey/webpack-manifest-plugin",
+  "source": "https://github.com/danethurber/webpack-manifest-plugin",
   "dependencies": {
     "fs-extra": "^0.30.0",
     "lodash": ">=3.5 <5"
