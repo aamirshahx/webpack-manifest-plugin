@@ -6,6 +6,10 @@
   "scripts": {
     "test": "./node_modules/.bin/jasmine"
   },
+  "files": [
+    "index.js",
+    "lib/"
+  ]
   "author": "Dane Thurber <dane.thurber@gmail.com>",
   "license": "MIT",
   "devDependencies": {
