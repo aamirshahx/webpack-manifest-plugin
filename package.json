@@ -1,5 +1,5 @@
 {
-  "name": "@cwlib/webpack-manifest-plugin",
+  "name": "@external/webpack-manifest-plugin",
   "version": "3.0.0",
   "description": "webpack plugin for generating asset manifests",
   "main": "index.js",
