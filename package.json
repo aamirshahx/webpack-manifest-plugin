@@ -1,6 +1,6 @@
 {
   "name": "@cwlib/webpack-manifest-plugin",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "webpack plugin for generating asset manifests",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "jasmine": "^2.2.1",
     "memory-fs": "^0.2.0",
     "style-loader": "^0.8.3",
-    "webpack": "^1.7.3"
+    "webpack": "5.37.0"
   },
   "repository": {
     "type": "git",
